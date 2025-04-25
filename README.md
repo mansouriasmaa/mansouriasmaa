@@ -1,5 +1,8 @@
 # Hi, I'm Asmaa!👋:
-🎯 I'm a self-taught Front-End Developer currently learning through the Scrimba Front-End Career Path.<br>💻 Passionate about crafting interactive, user-friendly websites using HTML, CSS, and JavaScript.<br>🎮 Currently developing a Blackjack Game project!<br>👯 Open to collaboration on exciting projects.
+🎯 I’m a self-taught **Front-End Developer** currently learning through the **[Scrimba Front-End Career Path](https://scrimba.com/)**.  
+💻 Passionate about crafting interactive, user-friendly websites using **HTML**, **CSS**, and **JavaScript**.  
+🎮 Currently developing a **Blackjack Game** project!  
+👯 Open to collaboration on exciting projects.
 
 
 # 💻 Tech Stack:
